@@ -1,10 +1,10 @@
 // Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
 // --------------------------------------------------------------------------------
 // Tool Version: Vivado v.2016.4 (win64) Build 1756540 Mon Jan 23 19:11:23 MST 2017
-// Date        : Thu Sep 07 14:56:13 2017
+// Date        : Mon Sep 11 11:02:45 2017
 // Host        : WK115 running 64-bit major release  (build 9200)
 // Command     : write_verilog -force -mode funcsim
-//               c:/Users/arbrown/Documents/Zybo-Z7-10-DMA/Zybo-Z7-10-DMA.srcs/sources_1/bd/system/ip/system_xbar_1/system_xbar_1_sim_netlist.v
+//               C:/Users/arbrown/Documents/GitHub/Zybo-Z7-20-DMA/src/bd/system/ip/system_xbar_1/system_xbar_1_sim_netlist.v
 // Design      : system_xbar_1
 // Purpose     : This verilog netlist is a functional simulation representation of the design and should not be modified
 //               or synthesized. This netlist cannot be used for SDF annotated simulation.

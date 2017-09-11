@@ -1,10 +1,10 @@
 // Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
 // --------------------------------------------------------------------------------
 // Tool Version: Vivado v.2016.4 (win64) Build 1756540 Mon Jan 23 19:11:23 MST 2017
-// Date        : Thu Sep 07 14:57:12 2017
+// Date        : Mon Sep 11 11:03:52 2017
 // Host        : WK115 running 64-bit major release  (build 9200)
-// Command     : write_verilog -force -mode synth_stub -rename_top system_auto_us_0 -prefix
-//               system_auto_us_0_ system_auto_us_0_stub.v
+// Command     : write_verilog -force -mode synth_stub
+//               C:/Users/arbrown/Documents/GitHub/Zybo-Z7-20-DMA/src/bd/system/ip/system_auto_us_0/system_auto_us_0_stub.v
 // Design      : system_auto_us_0
 // Purpose     : Stub declaration of top-level module interface
 // Device      : xc7z020clg400-1

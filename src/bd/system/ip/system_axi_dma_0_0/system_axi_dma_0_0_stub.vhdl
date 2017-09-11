@@ -1,10 +1,10 @@
 -- Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
 -- --------------------------------------------------------------------------------
 -- Tool Version: Vivado v.2016.4 (win64) Build 1756540 Mon Jan 23 19:11:23 MST 2017
--- Date        : Thu Sep 07 14:59:08 2017
+-- Date        : Mon Sep 11 11:06:15 2017
 -- Host        : WK115 running 64-bit major release  (build 9200)
 -- Command     : write_vhdl -force -mode synth_stub
---               C:/Users/arbrown/Documents/Zybo-Z7-10-DMA/Zybo-Z7-10-DMA.srcs/sources_1/bd/system/ip/system_axi_dma_0_0/system_axi_dma_0_0_stub.vhdl
+--               C:/Users/arbrown/Documents/GitHub/Zybo-Z7-20-DMA/src/bd/system/ip/system_axi_dma_0_0/system_axi_dma_0_0_stub.vhdl
 -- Design      : system_axi_dma_0_0
 -- Purpose     : Stub declaration of top-level module interface
 -- Device      : xc7z020clg400-1
