@@ -234,7 +234,12 @@ int main(void)
 
 
 	xil_printf("----------------------------------------------------------\r\n");
-	xil_printf("Zybo DMA Audio Demo\r\n");
+	xil_printf("Zybo Z7-20 DMA Audio Demo\r\n");
+	xil_printf("----------------------------------------------------------\r\n");
+	xil_printf("  Controls:\r\n");
+	xil_printf("  BTN1: Record from MIC IN\r\n");
+	xil_printf("  BTN2: Play on HPH OUT\r\n");
+	xil_printf("  BTN3: Record from LINE IN\r\n");
 	xil_printf("----------------------------------------------------------\r\n");
 
     //main loop
