@@ -1,0 +1,6 @@
+# ignore everything in workspace dir
+ws/*
+# except the generator scripts
+!ws/create_workspace.tcl
+!ws/cleanup.cmd
+!ws/cleanup.sh
