@@ -4,15 +4,18 @@
 # root
 /*
 !.gitignore
-!.gitmodules
 !README.md
 !LICENSE
 !project_info.tcl
 !proj/
 !repo/
-!sdk/
 !src/
 !digilent-vivado-scripts/
+!hw_handoff/
+
+# hardware handoff
+hw_handoff/**
+!hw_handoff/*.xsa
 
 # vivado workspace
 proj/*
@@ -44,11 +47,6 @@ src/ip/*/**
 !src/ip/**/*.xci
 !src/other
 !src/other/**
-
-# sdk application sources
-sdk/**
-!sdk/appsrc
-!sdk/appsrc/**
 
 # maintain required directories
 !**/.keep
