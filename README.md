@@ -1,6 +1,8 @@
 Zybo-Z7-20-DMA Demo
 ====================
 
+**Note:** The demo contained in this repository has been moved and this repository is no longer being actively maintained. Check out the [Zybo Z7 DMA demo](https://digilent.com/reference/programmable-logic/zybo-z7/demos/dma-audio) page on Digilent Reference for more information.
+
 Description
 -----------
 
